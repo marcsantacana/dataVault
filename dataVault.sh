@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo " "
 echo "Activitat 3: Script de Còpia de Seguretat	4"
 echo " "
