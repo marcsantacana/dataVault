@@ -37,7 +37,7 @@ El programa realiza las siguientes acciones:
 ## Requisitos
 
 - El script utiliza los comandos `tar`, `openssl` y `mkdir`. Asegúrate de que estos comandos estén disponibles en tu sistema.
-- El script cifra la copia de seguridad con AES-256 utilizando una clave predefinida. Puedes modificar la clave de cifrado directamente en el script si lo deseas.
+- El script cifra la copia de seguridad con AES-256 utilizando una clave predefinida. Puedes modificar la clave de cifrado directamente en el script si lo deseas
 
 ## Notas
 
